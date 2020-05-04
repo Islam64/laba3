@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1588623804 source:c:\users\Ислам\desktop\laba3.1\transport.cpp
+	"transport.h"
+
+1588623804 c:\users\Ислам\desktop\laba3.1\transport.h
+	<string>
+
+1588625047 source:c:\users\Ислам\desktop\laba3.1\main.cpp
+	<iostream>
+	<string>
+	"transport.h"
+	"avto.h"
+	"car.h"
+	"aeroplane.h"
+	"bus.h"
+	"steamboat.h"
+
+1588624483 c:\users\Ислам\desktop\laba3.1\avto.h
+	<string>
+	"transport.h"
+
+1588625019 source:c:\users\Ислам\desktop\laba3.1\avto.cpp
+	"avto.h"
+	<string>
+
+1588625117 source:c:\users\Ислам\desktop\laba3.1\aeroplane.cpp
+	"aeroplane.h"
+	<string>
+	<iostream>
+
+1588624433 source:c:\users\Ислам\desktop\laba3.1\bus.cpp
+	"bus.h"
+	<string>
+	<iostream>
+
+1588625117 source:c:\users\Ислам\desktop\laba3.1\steamboat.cpp
+	"steamboat.h"
+	<string>
+	<iostream>
+
+1588624433 source:c:\users\Ислам\desktop\laba3.1\car.cpp
+	"car.h"
+	<string>
+	<iostream>
+
+1588612942 c:\users\Ислам\desktop\laba3.1\car.h
+	<string>
+	"avto.h"
+
+1588625019 c:\users\Ислам\desktop\laba3.1\aeroplane.h
+	<string>
+	"transport.h"
+
+1588613370 c:\users\Ислам\desktop\laba3.1\bus.h
+	<string>
+	"transport.h"
+
+1588624148 c:\users\Ислам\desktop\laba3.1\steamboat.h
+	<string>
+	"transport.h"
+
